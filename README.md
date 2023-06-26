@@ -1,5 +1,6 @@
 <div align="center">
 <h2> Seja bem vindo!</h2>
+<h4>Me chamo Rafaela Vitória Port, atualmente estou cursando o último ano do ensino médio na Escola Técnica CIMOL</h4>
 </div>
 </br>
 <div align="center">
