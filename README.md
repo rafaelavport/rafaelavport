@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there! My name is Rafaela</h2>
+<h2> Hi there! My name is Rafaela ✨</h2>
 <h4>I am a student at CIMOL school, a renowned institution in Brazil </h4>
 </div>
 </br>
