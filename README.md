@@ -1,7 +1,7 @@
 ### Hi there! My name is Rafaela ✨
   <h4>I am a student at CIMOL school, a renowned institution in Brazil </h4
 <br>
-<div>
+<div align="center">
   <a href="https://github.com/rafaelavport">
     <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
