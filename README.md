@@ -1,6 +1,5 @@
 <h1> Hi there! My name is Rafaela ✨ </h1>
-  <h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
-  <hr>
+<h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 <div>
     <a href="https://github.com/rafaelavport">
