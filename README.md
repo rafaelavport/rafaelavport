@@ -1,5 +1,5 @@
 ### Hi there! My name is Rafaela ✨
-  <h4>I am a student at CIMOL school, a renowned institution in Brazil </h4
+  <h4>I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 <div>
     <a href="https://github.com/rafaelavport">
