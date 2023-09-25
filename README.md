@@ -2,7 +2,7 @@
 <h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 
-<div align="center" margin: 5>
+<div align="center" margin: 20>
   <a href="https://github.com/rafaelaport">
    <a href="https://github-readme-stats.vercel.app/api/pin/?username=rafaelavport&repo=github-readme-stats&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=midnight-purple"/>
