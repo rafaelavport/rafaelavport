@@ -1,4 +1,4 @@
-<h1> Hi there! My name is Rafaela ✨ </h1>
+<h1 > Hi there! My name is Rafaela ✨ </h1>
 <h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 
@@ -11,7 +11,7 @@
 
 
 
-<div style="display: inline-block; margin-left: 20"><br>
+<div display: inline-block; margin-left: 20><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
