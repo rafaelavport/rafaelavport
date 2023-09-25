@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/rafaelaport">
-   <a href="https://github-readme-stats.vercel.app/api/pin/?username=rafaelavport&repo=github-readme-stats&theme=neon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=neon"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelavport&layout=compact&langs_count=7&theme=neon"/>
+   <a href="https://github-readme-stats.vercel.app/api/pin/?username=rafaelavport&repo=github-readme-stats&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelavport&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
