@@ -1,7 +1,5 @@
 <h1> Hi there! My name is Rafaela ✨ </h1>
 <h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
-<br>
-
 ##
 
 <div align="center">
@@ -24,7 +22,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </div>
   
-  ##
 </br>
 <div align="center">
   <a href="https://www.instagram.com/cadeafafa" target="_blank">
