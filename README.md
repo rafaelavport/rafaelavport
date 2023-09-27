@@ -1,5 +1,5 @@
 <h1 align="center" > Hi there! My name is Rafaela ✨ </h1>
-<h4 align="center"> I am a student at CIMOL school, a renowned institution in Brazil </h4>
+<h4 align="center"> I am a student at CIMOL school, a renowned institution in Brazil. </h4>
 <br>
 
 <div margin = "50"; align="center">
