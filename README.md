@@ -1,8 +1,8 @@
-<h1 > Hi there! My name is Rafaela ✨ </h1>
-<h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
+<h1 align="center" > Hi there! My name is Rafaela ✨ </h1>
+<h4 align="center"> I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 
-<div margin = "50">
+<div margin = "50"; align="center">
   <a href="https://github.com/rafaelaport">
    <a href="https://github-readme-stats.vercel.app/api/pin/?username=rafaelavport&repo=github-readme-stats&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=midnight-purple"/>
