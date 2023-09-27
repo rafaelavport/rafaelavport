@@ -2,7 +2,7 @@
 <h4> I am a student at CIMOL school, a renowned institution in Brazil </h4>
 <br>
 
-<div align = center; margin = "50">
+<div margin = "50">
   <a href="https://github.com/rafaelaport">
    <a href="https://github-readme-stats.vercel.app/api/pin/?username=rafaelavport&repo=github-readme-stats&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelavport&show_icons=true&theme=midnight-purple"/>
@@ -11,7 +11,7 @@
 
 
 
-<div style="display: inline-block; margin-left: 20; text-align= center"><br>
+<div display: inline-block; margin-left: 20; align="center"><br>
     <img align="center" alt="rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
